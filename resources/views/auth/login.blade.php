@@ -305,29 +305,29 @@
             <div class="cred-section">
                 <h4><i class="fa-solid fa-key"></i> Demo Credentials (password: <strong>password</strong>)</h4>
                 <div class="cred-grid">
-                    <div class="cred-card admin" onclick="fillLogin('admin@simko.palu')">
+                    <div class="cred-card admin" onclick="fillLogin('admin@simko.com')">
                         <div class="cred-role">Admin</div>
-                        <div class="cred-email">admin@simko.palu</div>
+                        <div class="cred-email">admin@simko.com</div>
                         <div class="cred-pass">password</div>
                     </div>
-                    <div class="cred-card hrd" onclick="fillLogin('afrisal.soelaiman@basarnas.go.id')">
+                    <div class="cred-card hrd" onclick="fillLogin('afrisal.soelaiman@simko.com')">
                         <div class="cred-role">HRD</div>
-                        <div class="cred-email">afrisal.soelaiman@basarnas.go.id</div>
+                        <div class="cred-email">afrisal.soelaiman@simko.com</div>
                         <div class="cred-pass">password</div>
                     </div>
-                    <div class="cred-card manager" onclick="fillLogin('dirman.sandewa@basarnas.go.id')">
+                    <div class="cred-card manager" onclick="fillLogin('dirman.sandewa@simko.com')">
                         <div class="cred-role">Manager</div>
-                        <div class="cred-email">dirman.sandewa@basarnas.go.id</div>
+                        <div class="cred-email">dirman.sandewa@simko.com</div>
                         <div class="cred-pass">password</div>
                     </div>
-                    <div class="cred-card bod" onclick="fillLogin('djoko.irawan@basarnas.go.id')">
+                    <div class="cred-card bod" onclick="fillLogin('djoko.irawan@simko.com')">
                         <div class="cred-role">BoD</div>
-                        <div class="cred-email">djoko.irawan@basarnas.go.id</div>
+                        <div class="cred-email">djoko.irawan@simko.com</div>
                         <div class="cred-pass">password</div>
                     </div>
-                    <div class="cred-card karyawan" onclick="fillLogin('adiansyah@basarnas.go.id')" style="grid-column: span 2;">
+                    <div class="cred-card karyawan" onclick="fillLogin('adiansyah@simko.com')" style="grid-column: span 2;">
                         <div class="cred-role">Karyawan</div>
-                        <div class="cred-email">adiansyah@basarnas.go.id</div>
+                        <div class="cred-email">adiansyah@simko.com</div>
                         <div class="cred-pass">password</div>
                     </div>
                 </div>
