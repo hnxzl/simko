@@ -12,8 +12,8 @@ class AdditionalFlatsarUserSeeder extends Seeder
     public function run(): void
     {
         $users = [
-            ['ADMIN', '199112182025061001', 'admin@gmail.com', '082292812021', 'admin'],
-            ['KARYAWAN', '199606302015031001', 'karyawan@gmail.com', '085395479190', 'karyawan'],
+            ['ADMIN', '199112182025061001', 'admin@simko.com', '082292812021', 'admin'],
+            ['KARYAWAN', '199606302015031001', 'karyawan@simko.com', '085395479190', 'karyawan'],
         ];
 
         foreach ($users as $u) {
