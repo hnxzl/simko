@@ -1,0 +1,17 @@
+/* Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Center PHPFlasher notifications so they do not block the top-right corner. */
+.fl-wrapper {
+	left: 50% !important;
+	top: 50% !important;
+	right: auto !important;
+	bottom: auto !important;
+	transform: translate(-50%, -50%) !important;
+}
+
+.fl-wrapper .fl-container {
+	transform: none !important;
+}
